@@ -16,10 +16,10 @@ var clients = [];
 
 // Establish MySQL database connection
 var db_config = {
-  host: '118.139.160.140',
-  user: 'datasuperwin',
-  password: 'Raju@921901000',
-  database: 'datasuperwin',
+  host: '5.182.209.17',
+  user: 'technicalram_jaycash',
+  password: 'technicalram_jaycash',
+  database: 'technicalram_jaycash',
   keepAlive: true,
 };
 
